@@ -1,2 +1,2 @@
 # Comp-Sci-1
-Computer Science 1 class
+All of the projects from my Computer Science 1 class
